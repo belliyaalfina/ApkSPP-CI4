@@ -1,11 +1,11 @@
 # AplikasiSPP-CI4
 
 Aplikasi ini dikembangan dengan menggunakan :
-PHP Versi 8.0.25
-PHP Framework Codeigniter 4.0.5
+PHP Versi 8.0.9
+PHP Framework CodeIgniter 4.0.5
 MySQL 14.14
 
-Dikembangkan sebagai project Contoh Uji Kompetensi Program Keahlian Rekayasa Perangkat Lunak SMK Negeri 2 Kuningan Tahun 2023.
+Dikembangkan sebagai project Uji Kompetensi Keahlian Rekayasa Perangkat Lunak SMK Negeri 2 Kuningan Tahun 2023.
 
 Petunjuk Instalasi
 ==================
